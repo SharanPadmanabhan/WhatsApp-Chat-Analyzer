@@ -1,4 +1,4 @@
-# Whatsapp Text Analyzer
+# Whatsapp Chat Analyzer
 
 ### Introduction
 
