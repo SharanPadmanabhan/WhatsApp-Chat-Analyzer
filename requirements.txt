@@ -1,0 +1,10 @@
+pip==22.1.2
+setuptools==62.6.0
+wheel==0.37.1
+autopep8==1.6.0
+streamlit==1.10.0
+urlextract==1.6.0
+wordcloud==1.8.1
+pandas==1.4.3
+emoji==1.7.0
+streamlit-echarts==0.4.0

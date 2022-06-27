@@ -1,0 +1,10 @@
+[server]
+port = 8000
+
+[browser]
+gatherUsageStats = false
+serverPort = 8000
+
+[theme]
+base = 'light'
+
